@@ -14,6 +14,7 @@ Cada write-up cubre la cadena completa (reconocimiento → explotación → esca
 |---------|-----------|------------|----------------|----------|
 | Vulnversity | TryHackMe | Fácil | Recon · enum web · upload bypass · reverse shell · SUID privesc | [Ver](./writeup-vulnversity.md) |
 | Basic Pentesting | TryHackMe | Fácil | Recon · enum SMB · fuerza bruta SSH (Hydra) · crackeo clave SSH (John) · sudo privesc | [Ver](./writeup-basic-pentesting.md) |
+| Blue | TryHackMe | Fácil | SMB/EternalBlue (MS17-010) · Metasploit · hashdump · crackeo NTLM (John) | [Ver](./writeup-blue.md) |
 
 <!-- Añade una fila por cada máquina nueva que resuelvas -->
 
